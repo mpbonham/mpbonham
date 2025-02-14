@@ -1,4 +1,4 @@
-# Hello There ! Welcome To My GitHub
+# Hello There ! Welcome To My GitHub ⚡
 My name is Maxwell Bonham and I love all things software related ! I recently graduated from the Univeristy Of California Santa Barbara, with a Bachelors 
 of Science degree in Computer Science. Below you can find all of my previous projects, current projects and academic coursework. 
 
@@ -11,8 +11,8 @@ of Science degree in Computer Science. Below you can find all of my previous pro
 [Project]()
 
 ## Past Projects
-[Campus Maps](https://github.com/chriscerie/campus-maps)
-[Subtle Reminder IoT Device]()
+1) [Campus Maps](https://github.com/chriscerie/campus-maps)
+2) [Subtle Reminder IoT Device]()
 
 
 ## Private Projects (code available upon request)

@@ -12,7 +12,7 @@ of Science degree in Computer Science. Below you can find all of my previous pro
 
 ## Past Projects
 1) [Campus Maps](https://github.com/chriscerie/campus-maps)
-2) [Subtle Reminder IoT Device]()
+2) [Subtle Reminder IoT Device](https://github.com/mpbonham/Sublte-Reminder)
 
 
 ## Private Projects (code available upon request)

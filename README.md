@@ -5,7 +5,7 @@ of Science degree in Computer Science. Below you can find all of my previous pro
 ## Table of Contents
 
 ## Current Projects
-[Project]()
+[Emissions Dashboard](https://github.com/mpbonham/emissions-dashboard)
 
 ## Paused Projects
 [Project]()

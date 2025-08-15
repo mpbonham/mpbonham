@@ -2,13 +2,9 @@
 My name is Maxwell Bonham and I love all things software related ! I recently graduated from the Univeristy Of California Santa Barbara, with a Bachelors 
 of Science degree in Computer Science. Below you can find all of my previous projects, current projects and academic coursework. 
 
-## Table of Contents
-
 ## Current Projects
 [Emissions Dashboard](https://github.com/mpbonham/emissions-dashboard)
 
-## Paused Projects
-[Project]()
 
 ## Past Projects
 1) [Campus Maps](https://github.com/chriscerie/campus-maps)
@@ -18,6 +14,7 @@ of Science degree in Computer Science. Below you can find all of my previous pro
 ## Private Projects (code available upon request)
 * Linux Operating System
 * Lambda Plus Interpreter
+* MLIR Dialect Lowerings
 
 
 

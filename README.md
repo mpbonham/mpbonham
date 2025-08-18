@@ -3,7 +3,7 @@ My name is Maxwell Bonham and I love all things software related ! I recently gr
 of Science degree in Computer Science. Below you can find all of my previous projects, current projects and academic coursework. 
 
 ## Current Projects
-[Emissions Dashboard](https://github.com/mpbonham/emissions-dashboard)
+[]()
 
 
 ## Past Projects
